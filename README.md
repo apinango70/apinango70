@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zigna testing</h1>
+<h1 align="center">Hi 👋, I'm Malta</h1>
 <h3 align="center">A passionate full stack developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apinango70&label=Profile%20views&color=0e75b6&style=flat" alt="apinango70" /> </p>
